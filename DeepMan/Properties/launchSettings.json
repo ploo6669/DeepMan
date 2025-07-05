@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DeepMan": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
